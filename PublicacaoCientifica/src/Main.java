@@ -16,6 +16,6 @@ public class Main {
 
         revista.publicar("Artigo: O java observando o Observer");
         revista.publicar("Edição Especial: O padrão de projeto mais amado");
-        revista.publicar("Destaque: Participação especial na página 27");
+        revista.publicar("Quais são as melhores maneiras de aprender Padrão de Projeto? Venha ler este artigo!");
     }
 }
